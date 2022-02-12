@@ -1,0 +1,29 @@
+{
+	"embeds": [
+    {
+      "type": "rich",
+      "title": "💿 | FiveM Element Club Argentum Lisans Key ",
+      "description": "💿 FiveM Argentum | **64 Kişilik** Key",
+      "color": 0x00FFFF,
+      "fields": [
+        {
+          "name": "Sunucu kapasitenizi artırın",
+          "value": "Sunucu kapasitenizi 64'e yükseltir.",
+          "inline": true
+        },
+        {
+          "name": "OneSync / Infinity Desteği",
+          "value": "Sunucunuzda OneSync Infinity'yi açmanıza olanak sağlar."
+        },
+        {
+          "name": "Custom kıyafetler yükleyin",
+          "value": "Kendinize özel kıyafet paketlerini yüklemenize olanak sağlar"
+        },
+        {
+          "name": "Serverlist'te güzel gözükün",
+          "value": "Serverlist'te renkli sunucu isimleri kullanmanıza olanak sağlar"
+        }
+      ]
+    }
+  ]
+}
